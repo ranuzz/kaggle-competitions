@@ -1,0 +1,1111 @@
+Not Found :  96553
+Image shape is different :  29539 (465, 412, 4)
+Not Found :  25058
+Not Found :  91992
+Image shape is different :  86801 (360, 640, 4)
+Not Found :  139148
+Not Found :  36462
+Not Found :  94770
+Not Found :  138576
+Not Found :  96624
+IndexError :  86405 (682, 1023)
+Not Found :  191824
+Not Found :  137470
+Not Found :  95201
+Not Found :  92705
+Not Found :  122776
+Not Found :  13964
+Not Found :  93250
+Not Found :  137534
+Not Found :  121389
+Not Found :  45346
+Not Found :  121776
+Not Found :  96471
+Not Found :  93667
+Image shape is different :  65320 (435, 422, 4)
+Not Found :  94520
+Image shape is different :  99458 (800, 800, 4)
+Not Found :  151854
+Not Found :  136166
+Not Found :  117634
+Not Found :  125841
+Not Found :  8916
+Not Found :  81801
+Not Found :  138351
+Not Found :  138246
+Not Found :  96104
+Not Found :  122825
+Not Found :  174872
+Not Found :  138134
+Not Found :  122870
+Not Found :  95389
+Image shape is different :  172745 (480, 374, 4)
+Not Found :  15290
+Not Found :  136217
+Not Found :  122116
+Image shape is different :  186847 (398, 600, 4)
+Not Found :  138394
+Image shape is different :  59579 (800, 800, 4)
+Not Found :  92049
+Image shape is different :  32081 (513, 756, 4)
+Not Found :  94528
+Image shape is different :  56048 (1028, 750, 4)
+Not Found :  137200
+IndexError :  131848 (810, 819)
+Not Found :  138704
+Image shape is different :  13630 (800, 800, 4)
+Not Found :  136297
+Not Found :  138591
+Not Found :  122108
+Not Found :  92821
+Not Found :  97833
+Not Found :  94538
+Not Found :  138755
+Not Found :  47396
+Not Found :  136841
+Not Found :  138718
+Not Found :  139310
+Not Found :  95118
+Not Found :  122756
+c:\users\ranu\desktop\projects\datascience\envlat\lib\site-packages\PIL\TiffImagePlugin.py:725: UserWarning: Possibly corrupt EXIF data.  Expecting to read 19660800 bytes but only got 0. Skipping tag 0
+  " Skipping tag %s" % (size, len(data), tag))
+c:\users\ranu\desktop\projects\datascience\envlat\lib\site-packages\PIL\TiffImagePlugin.py:725: UserWarning: Possibly corrupt EXIF data.  Expecting to read 1000000 bytes but only got 0. Skipping tag 59464
+  " Skipping tag %s" % (size, len(data), tag))
+c:\users\ranu\desktop\projects\datascience\envlat\lib\site-packages\PIL\TiffImagePlugin.py:725: UserWarning: Possibly corrupt EXIF data.  Expecting to read 18481152 bytes but only got 0. Skipping tag 0
+  " Skipping tag %s" % (size, len(data), tag))
+c:\users\ranu\desktop\projects\datascience\envlat\lib\site-packages\PIL\TiffImagePlugin.py:725: UserWarning: Possibly corrupt EXIF data.  Expecting to read 37093376 bytes but only got 0. Skipping tag 0
+  " Skipping tag %s" % (size, len(data), tag))
+c:\users\ranu\desktop\projects\datascience\envlat\lib\site-packages\PIL\TiffImagePlugin.py:725: UserWarning: Possibly corrupt EXIF data.  Expecting to read 19988480 bytes but only got 0. Skipping tag 0
+  " Skipping tag %s" % (size, len(data), tag))
+c:\users\ranu\desktop\projects\datascience\envlat\lib\site-packages\PIL\TiffImagePlugin.py:725: UserWarning: Possibly corrupt EXIF data.  Expecting to read 34865152 bytes but only got 0. Skipping tag 0
+  " Skipping tag %s" % (size, len(data), tag))
+c:\users\ranu\desktop\projects\datascience\envlat\lib\site-packages\PIL\TiffImagePlugin.py:725: UserWarning: Possibly corrupt EXIF data.  Expecting to read 1048592 bytes but only got 0. Skipping tag 0
+  " Skipping tag %s" % (size, len(data), tag))
+c:\users\ranu\desktop\projects\datascience\envlat\lib\site-packages\PIL\TiffImagePlugin.py:725: UserWarning: Possibly corrupt EXIF data.  Expecting to read 121635028 bytes but only got 0. Skipping tag 4352
+  " Skipping tag %s" % (size, len(data), tag))
+Image shape is different :  62288 (703, 750, 4)
+Not Found :  139589
+Not Found :  116946
+Not Found :  12098
+Image shape is different :  36421 (800, 800, 4)
+Not Found :  173092
+Not Found :  23135
+Image shape is different :  58689 (800, 800, 4)
+Not Found :  66334
+Image shape is different :  78038 (682, 1024, 4)
+Image shape is different :  28578 (750, 750, 4)
+Not Found :  97376
+Not Found :  139253
+Not Found :  5152
+Not Found :  122477
+Not Found :  125630
+Not Found :  56584
+Not Found :  115430
+Not Found :  92834
+Not Found :  96935
+Not Found :  121790
+Not Found :  95485
+Not Found :  125841
+Image shape is different :  190273 (600, 600, 4)
+Not Found :  94490
+Not Found :  94545
+Not Found :  137504
+Not Found :  42850
+Not Found :  121227
+Not Found :  91756
+Not Found :  95398
+Not Found :  122868
+Not Found :  94345
+IndexError :  149701 (961, 1280)
+Not Found :  81003
+Not Found :  96768
+Not Found :  137019
+Not Found :  95745
+Not Found :  137516
+Not Found :  34520
+Not Found :  96543
+Not Found :  93119
+Not Found :  93485
+Not Found :  97473
+Image shape is different :  160160 (400, 400, 4)
+Not Found :  94185
+Not Found :  46822
+Not Found :  157007
+Not Found :  121809
+Image shape is different :  76325 (371, 354, 4)
+Not Found :  97262
+Not Found :  144026
+Image shape is different :  182552 (800, 800, 4)
+Not Found :  96255
+Image shape is different :  78976 (687, 666, 4)
+Not Found :  93631
+Not Found :  137529
+Not Found :  93011
+Not Found :  120893
+Not Found :  139316
+Not Found :  136383
+Not Found :  92299
+Not Found :  123304
+Not Found :  36735
+Not Found :  91358
+Not Found :  138782
+Not Found :  136104
+Not Found :  143932
+Not Found :  121544
+Image shape is different :  184366 (800, 800, 4)
+OSError :  149624
+OSError :  175402
+Not Found :  136402
+Image shape is different :  101893 (418, 640, 4)
+Not Found :  94639
+Not Found :  139770
+Image shape is different :  86754 (1200, 1200, 4)
+Not Found :  137551
+Not Found :  31434
+Not Found :  136406
+Not Found :  46554
+Image shape is different :  182308 (323, 311, 4)
+Not Found :  91991
+Image shape is different :  55308 (800, 800, 4)
+Not Found :  83978
+Image shape is different :  157790 (400, 400, 4)
+Image shape is different :  173396 (300, 502, 4)
+Not Found :  12408
+Not Found :  139507
+Not Found :  122333
+Not Found :  42731
+Not Found :  94899
+Not Found :  36462
+Image shape is different :  64426 (455, 640, 4)
+Not Found :  138702
+Image shape is different :  161452 (750, 750, 4)
+Not Found :  121617
+Not Found :  93469
+Not Found :  20080
+Image shape is different :  102725 (800, 800, 4)
+Not Found :  139215
+Not Found :  95792
+Image shape is different :  57824 (800, 800, 4)
+Not Found :  122718
+Not Found :  93972
+Not Found :  83750
+Image shape is different :  84836 (800, 800, 4)
+Not Found :  138331
+Image shape is different :  159810 (700, 700, 4)
+Not Found :  26026
+Not Found :  93630
+Not Found :  158117
+Not Found :  93502
+Image shape is different :  172770 (300, 300, 4)
+Not Found :  152219
+Not Found :  96692
+Image shape is different :  148656 (556, 750, 4)
+Not Found :  121259
+Not Found :  93302
+Not Found :  79739
+Image shape is different :  341 (407, 750, 4)
+Not Found :  121696
+Not Found :  96896
+Not Found :  96655
+Not Found :  139264
+Not Found :  122219
+Not Found :  175328
+Not Found :  138038
+Not Found :  96029
+Not Found :  96718
+Not Found :  183750
+Not Found :  136196
+Not Found :  24999
+Not Found :  92849
+Image shape is different :  189339 (600, 600, 4)
+Not Found :  136513
+Not Found :  105295
+Not Found :  138113
+Not Found :  135997
+Not Found :  169575
+Not Found :  138898
+Not Found :  122755
+Not Found :  125009
+Not Found :  93607
+Not Found :  9549
+Not Found :  96928
+Not Found :  95285
+Not Found :  94688
+Not Found :  162944
+Not Found :  130429
+Not Found :  96270
+Not Found :  128593
+Not Found :  139194
+Not Found :  116842
+Not Found :  80428
+Not Found :  92728
+Not Found :  139801
+Not Found :  181634
+Image shape is different :  10327 (800, 800, 4)
+Not Found :  138519
+Image shape is different :  38343 (800, 800, 4)
+Not Found :  94750
+Not Found :  71950
+Image shape is different :  61542 (300, 300, 4)
+Not Found :  92852
+Not Found :  121583
+Not Found :  94086
+Not Found :  95657
+Not Found :  122139
+Not Found :  96907
+Not Found :  97609
+Not Found :  93341
+Not Found :  182941
+Not Found :  137441
+IndexError :  186378 (800, 800)
+Not Found :  150051
+Image shape is different :  100098 (372, 548, 4)
+Image shape is different :  9132 (800, 800, 4)
+OSError :  149637
+Not Found :  136016
+Not Found :  95849
+Not Found :  158238
+OSError :  118602
+Not Found :  136423
+Not Found :  181287
+Not Found :  97478
+Not Found :  93897
+Not Found :  137429
+Not Found :  141301
+Not Found :  142651
+Not Found :  137637
+Not Found :  94401
+Not Found :  91950
+Not Found :  136414
+Image shape is different :  12755 (500, 500, 4)
+Not Found :  73156
+Not Found :  93780
+Not Found :  101543
+Not Found :  91852
+Not Found :  95793
+Not Found :  94106
+Not Found :  139210
+Not Found :  122374
+Not Found :  44543
+Not Found :  181818
+Image shape is different :  168561 (600, 600, 4)
+Not Found :  96102
+Not Found :  136070
+Not Found :  93105
+IndexError :  87612 (350, 350)
+Image shape is different :  153212 (1406, 1600, 4)
+Not Found :  87347
+Not Found :  96028
+Not Found :  136023
+Not Found :  121521
+Not Found :  83190
+Not Found :  176757
+Not Found :  92738
+Not Found :  94500
+Not Found :  139074
+Not Found :  96864
+Not Found :  97035
+Not Found :  121869
+Not Found :  129281
+IndexError :  161365 (310, 310)
+Not Found :  138109
+Not Found :  95258
+Not Found :  135073
+Not Found :  79132
+Not Found :  122859
+Not Found :  122666
+Not Found :  125829
+Not Found :  129849
+Not Found :  177271
+Not Found :  126643
+Not Found :  97745
+Not Found :  94576
+Image shape is different :  99971 (800, 800, 4)
+Not Found :  137754
+Not Found :  86518
+Not Found :  137568
+Not Found :  136366
+Not Found :  139208
+Not Found :  145158
+Not Found :  139580
+Not Found :  101220
+Not Found :  175084
+Not Found :  122363
+Not Found :  94800
+Not Found :  139840
+Not Found :  94865
+Image shape is different :  158339 (347, 471, 4)
+Not Found :  137326
+Not Found :  97067
+OSError :  135943
+Not Found :  91941
+Not Found :  94033
+Not Found :  136623
+Not Found :  121897
+Not Found :  136539
+Not Found :  138439
+Not Found :  155888
+Not Found :  123052
+Not Found :  138931
+OSError :  7865
+Not Found :  139380
+Not Found :  2642
+Not Found :  165601
+Not Found :  93176
+Not Found :  94082
+Not Found :  121292
+Not Found :  71319
+Not Found :  137328
+Not Found :  51196
+Not Found :  170805
+Image shape is different :  12820 (500, 500, 4)
+Not Found :  150160
+Not Found :  138579
+Not Found :  90721
+Not Found :  122643
+Not Found :  96604
+Not Found :  122446
+Not Found :  92629
+Not Found :  139764
+Not Found :  121488
+IndexError :  186015 (1200, 1200)
+Image shape is different :  190889 (800, 800, 4)
+Not Found :  136413
+Not Found :  94851
+Not Found :  138386
+Not Found :  103239
+Not Found :  121617
+Not Found :  94083
+Not Found :  130378
+Not Found :  122091
+Not Found :  93559
+Not Found :  24797
+Not Found :  62845
+Not Found :  22482
+Not Found :  139206
+Not Found :  137748
+Not Found :  24970
+Not Found :  95963
+Not Found :  96640
+Not Found :  34532
+Not Found :  92107
+Image shape is different :  35398 (780, 790, 4)
+Image shape is different :  161548 (300, 300, 4)
+Not Found :  96914
+Not Found :  94659
+Not Found :  192207
+Not Found :  22471
+Not Found :  121478
+Not Found :  94881
+Not Found :  97276
+Not Found :  139336
+Not Found :  121922
+Not Found :  138204
+Not Found :  136799
+Not Found :  113085
+Not Found :  135923
+OSError :  131613
+Not Found :  122394
+Not Found :  94012
+Not Found :  93710
+Not Found :  92035
+Not Found :  94776
+Not Found :  139445
+Not Found :  139284
+Not Found :  139808
+Not Found :  121477
+Not Found :  122169
+Not Found :  136878
+Image shape is different :  112590 (600, 600, 4)
+Not Found :  127988
+Not Found :  40981
+Not Found :  93265
+Not Found :  137089
+Not Found :  92212
+Not Found :  95700
+Not Found :  138225
+Not Found :  138308
+Image shape is different :  164396 (642, 642, 4)
+Not Found :  95008
+Image shape is different :  159485 (715, 720, 4)
+Not Found :  24849
+Not Found :  96487
+Image shape is different :  47095 (300, 300, 4)
+Not Found :  122018
+Not Found :  94570
+Not Found :  24504
+Not Found :  137337
+Not Found :  94831
+Not Found :  136204
+Not Found :  25333
+Image shape is different :  193543 (500, 500, 4)
+OSError :  91240
+Not Found :  121327
+Not Found :  138014
+Not Found :  185554
+Not Found :  95557
+Not Found :  142455
+Not Found :  92159
+Not Found :  139554
+Not Found :  136222
+Not Found :  96177
+Not Found :  136188
+Image shape is different :  80131 (640, 640, 4)
+Image shape is different :  98730 (435, 549, 4)
+Not Found :  132207
+Not Found :  96190
+Not Found :  25303
+Not Found :  93633
+Image shape is different :  135562 (778, 793, 4)
+IndexError :  124083 (800, 800)
+Not Found :  137715
+Not Found :  138924
+Image shape is different :  155199 (462, 571, 4)
+Not Found :  143636
+Not Found :  84675
+Not Found :  112643
+Not Found :  93654
+Not Found :  125848
+Not Found :  94560
+Not Found :  121294
+Not Found :  83480
+Image shape is different :  176856 (586, 750, 4)
+Not Found :  55738
+Not Found :  122805
+Image shape is different :  14511 (800, 800, 4)
+Not Found :  138804
+OSError :  162255
+Not Found :  121518
+Image shape is different :  39552 (310, 310, 4)
+Not Found :  138828
+Not Found :  95838
+Not Found :  93855
+Not Found :  122851
+Not Found :  113675
+Not Found :  93257
+Not Found :  80138
+Not Found :  92877
+Not Found :  93473
+Image shape is different :  66045 (800, 800, 4)
+Not Found :  136264
+Not Found :  188100
+Not Found :  134756
+Image shape is different :  158671 (385, 400, 4)
+Not Found :  93874
+IndexError :  18292 (1024, 727)
+Not Found :  179118
+Image shape is different :  2347 (800, 800, 4)
+Not Found :  72207
+Not Found :  92664
+Not Found :  122677
+Not Found :  93874
+Image shape is different :  140157 (800, 800, 4)
+Not Found :  122709
+Not Found :  25006
+Not Found :  138465
+Not Found :  127434
+Not Found :  95648
+Image shape is different :  41203 (400, 600, 4)
+Not Found :  93736
+Not Found :  136035
+Not Found :  105574
+Not Found :  94207
+Not Found :  92041
+Not Found :  136186
+Not Found :  93408
+Not Found :  122473
+Not Found :  96760
+Not Found :  94717
+Image shape is different :  105096 (407, 425, 4)
+Not Found :  188076
+Not Found :  120633
+Not Found :  92024
+Not Found :  138887
+Not Found :  24267
+Not Found :  95115
+Image shape is different :  83806 (435, 548, 4)
+Not Found :  94465
+Not Found :  126510
+OSError :  131036
+Not Found :  25277
+Not Found :  97649
+Not Found :  17100
+Image shape is different :  80214 (800, 800, 4)
+Not Found :  25297
+Image shape is different :  43688 (500, 500, 4)
+Image shape is different :  123230 (375, 500, 4)
+Not Found :  146836
+Not Found :  125601
+Not Found :  97365
+Not Found :  138492
+Image shape is different :  104501 (750, 750, 4)
+Not Found :  138073
+Not Found :  137563
+Image shape is different :  20047 (600, 473, 4)
+Not Found :  136339
+Not Found :  95034
+Not Found :  91995
+Not Found :  95037
+Not Found :  122615
+Not Found :  155065
+Not Found :  96980
+Not Found :  135991
+Not Found :  10683
+Not Found :  92526
+Not Found :  125561
+Not Found :  136173
+Not Found :  137609
+Not Found :  92020
+Not Found :  29891
+Not Found :  107301
+Not Found :  139733
+Not Found :  138267
+OSError :  83369
+Not Found :  97205
+Image shape is different :  2634 (750, 750, 4)
+Not Found :  97144
+Not Found :  92550
+Not Found :  93410
+Not Found :  122813
+Not Found :  136341
+Image shape is different :  189526 (533, 800, 4)
+Not Found :  93994
+Not Found :  92219
+Not Found :  96250
+Not Found :  121418
+Image shape is different :  6818 (587, 750, 4)
+Not Found :  130649
+Image shape is different :  45773 (400, 400, 4)
+Not Found :  136829
+Not Found :  131413
+Not Found :  25056
+Not Found :  94085
+OSError :  22360
+Not Found :  139029
+Not Found :  95012
+Not Found :  125801
+Not Found :  36495
+Image shape is different :  30123 (432, 398, 4)
+Not Found :  136223
+Not Found :  96411
+Not Found :  137205
+Image shape is different :  159462 (714, 713, 4)
+Not Found :  139866
+Not Found :  184154
+Not Found :  92241
+Not Found :  11707
+Image shape is different :  66020 (800, 800, 4)
+Image shape is different :  28029 (615, 483, 4)
+Not Found :  129554
+Not Found :  37025
+Not Found :  94211
+Not Found :  137557
+Not Found :  193185
+Not Found :  164687
+Not Found :  136502
+Image shape is different :  77271 (800, 800, 4)
+Not Found :  94853
+Not Found :  96577
+Image shape is different :  55729 (360, 360, 4)
+Not Found :  35397
+Not Found :  122851
+Not Found :  125516
+Not Found :  138205
+Not Found :  97267
+Not Found :  96498
+Not Found :  92869
+Not Found :  95687
+OSError :  42181
+Not Found :  83713
+Image shape is different :  89578 (680, 1024, 4)
+Not Found :  97648
+Image shape is different :  56751 (628, 743, 4)
+Image shape is different :  74582 (330, 384, 4)
+Image shape is different :  144588 (517, 800, 4)
+Not Found :  76536
+Not Found :  122101
+Not Found :  122868
+Not Found :  25102
+OSError :  51562
+Not Found :  92531
+Not Found :  138844
+Image shape is different :  157790 (400, 400, 4)
+Not Found :  96008
+Not Found :  92899
+Not Found :  97771
+Not Found :  88132
+Not Found :  99677
+Not Found :  130034
+Not Found :  122630
+Image shape is different :  36421 (800, 800, 4)
+Not Found :  138586
+Not Found :  68743
+Not Found :  136707
+Not Found :  122653
+Not Found :  95269
+Not Found :  95192
+Not Found :  176258
+Not Found :  166047
+Not Found :  122568
+Not Found :  137465
+Not Found :  125553
+Not Found :  140340
+Image shape is different :  35457 (460, 790, 4)
+Not Found :  25126
+Image shape is different :  6333 (509, 750, 4)
+Not Found :  25174
+Not Found :  96563
+Not Found :  160342
+Not Found :  55197
+Not Found :  136352
+Not Found :  161334
+Not Found :  22791
+Not Found :  137604
+Not Found :  96147
+Not Found :  96947
+Not Found :  138579
+Not Found :  122693
+Not Found :  96625
+Not Found :  94838
+Not Found :  96867
+Not Found :  93880
+Not Found :  136986
+Not Found :  96011
+Not Found :  122877
+Not Found :  94652
+Not Found :  96865
+Not Found :  178185
+Image shape is different :  43298 (376, 606, 4)
+Not Found :  127239
+Image shape is different :  102407 (440, 790, 4)
+Not Found :  97414
+Not Found :  97647
+Not Found :  121264
+Not Found :  92423
+Not Found :  81301
+Not Found :  67017
+Not Found :  122076
+Image shape is different :  82598 (2000, 2000, 4)
+Image shape is different :  170933 (800, 800, 4)
+Not Found :  155065
+Not Found :  24912
+Not Found :  136071
+Not Found :  138483
+Not Found :  97561
+Not Found :  74864
+Not Found :  167606
+Not Found :  136328
+Not Found :  97448
+Not Found :  94602
+OSError :  133879
+Not Found :  50306
+Not Found :  95082
+Not Found :  94969
+Not Found :  92688
+Not Found :  133703
+Not Found :  136037
+Not Found :  11530
+Image shape is different :  2342 (1, 1, 4)
+Not Found :  136458
+Not Found :  95463
+Not Found :  185596
+Image shape is different :  88066 (3456, 5184, 4)
+Not Found :  94855
+Not Found :  12779
+Not Found :  131286
+Not Found :  137246
+Not Found :  21058
+Not Found :  95537
+Not Found :  8514
+Image shape is different :  40517 (825, 750, 4)
+Not Found :  122767
+Image shape is different :  79038 (1600, 1600, 4)
+Not Found :  139755
+Not Found :  122397
+Image shape is different :  67584 (400, 400, 4)
+Not Found :  137026
+Not Found :  34314
+Not Found :  134262
+Image shape is different :  166213 (575, 790, 4)
+Not Found :  123684
+Image shape is different :  151372 (566, 750, 4)
+Not Found :  80428
+Not Found :  47949
+Image shape is different :  46843 (424, 420, 4)
+Not Found :  122102
+IndexError :  145196 (800, 800)
+Image shape is different :  30828 (1440, 1440, 4)
+Not Found :  91860
+Not Found :  92540
+Not Found :  95632
+Not Found :  94607
+Not Found :  91855
+Not Found :  91871
+Not Found :  121632
+Not Found :  37683
+Not Found :  91392
+Not Found :  139215
+Not Found :  138755
+Not Found :  37558
+Not Found :  94526
+Not Found :  128380
+Not Found :  88651
+Not Found :  97241
+Not Found :  92742
+Not Found :  138309
+Not Found :  95247
+Not Found :  138032
+Not Found :  28152
+Not Found :  136232
+Not Found :  39860
+Not Found :  37018
+Image shape is different :  152657 (375, 580, 4)
+Image shape is different :  114706 (800, 800, 4)
+Not Found :  92600
+OSError :  149863
+Not Found :  3001
+Image shape is different :  113684 (333, 500, 4)
+Not Found :  96998
+Not Found :  25083
+Not Found :  35379
+Not Found :  96951
+Not Found :  121537
+Image shape is different :  80944 (400, 334, 4)
+Image shape is different :  42628 (345, 548, 4)
+Not Found :  95134
+Not Found :  137425
+Not Found :  125591
+Not Found :  137316
+Not Found :  148669
+Image shape is different :  48631 (800, 800, 4)
+Not Found :  95742
+Image shape is different :  67854 (366, 368, 4)
+Not Found :  95597
+Not Found :  25055
+Image shape is different :  58760 (290, 500, 4)
+Not Found :  139754
+Image shape is different :  22529 (485, 650, 4)
+Not Found :  138580
+Not Found :  61397
+Not Found :  24690
+Not Found :  33850
+Not Found :  136139
+Not Found :  95723
+Not Found :  19874
+Image shape is different :  61542 (300, 300, 4)
+Image shape is different :  152448 (397, 402, 4)
+Image shape is different :  31090 (1600, 1600, 4)
+Not Found :  139276
+Image shape is different :  143747 (917, 790, 4)
+Image shape is different :  150727 (800, 800, 4)
+Not Found :  123210
+Image shape is different :  41203 (400, 600, 4)
+Image shape is different :  114402 (356, 553, 4)
+Not Found :  145330
+Not Found :  96039
+Not Found :  137433
+Not Found :  132472
+Not Found :  136458
+Not Found :  139241
+Not Found :  93210
+Not Found :  97693
+Not Found :  138205
+Not Found :  138129
+OSError :  158223
+Not Found :  93638
+Not Found :  136253
+Not Found :  97235
+Not Found :  91905
+Image shape is different :  56022 (683, 1024, 4)
+Not Found :  167243
+Not Found :  121669
+Not Found :  91866
+Not Found :  162515
+Not Found :  92833
+Not Found :  92670
+Not Found :  73854
+Not Found :  122097
+OSError :  149213
+Not Found :  25247
+Not Found :  122840
+Not Found :  114882
+Image shape is different :  2336 (800, 800, 4)
+Not Found :  27337
+Not Found :  139247
+Not Found :  96379
+Not Found :  95093
+Not Found :  48623
+Not Found :  121455
+Image shape is different :  144120 (576, 639, 4)
+Not Found :  94601
+Image shape is different :  7275 (800, 800, 4)
+Not Found :  121975
+Not Found :  116430
+Not Found :  127239
+Not Found :  162537
+Not Found :  94566
+Image shape is different :  76945 (355, 360, 4)
+Not Found :  137300
+Not Found :  9326
+OSError :  87261
+Not Found :  138631
+Not Found :  93342
+Not Found :  137533
+Not Found :  138073
+Not Found :  92564
+IndexError :  87351 (1000, 999)
+Image shape is different :  59321 (800, 800, 4)
+Not Found :  138403
+Not Found :  25042
+Not Found :  127429
+Not Found :  95343
+Not Found :  26010
+Not Found :  122761
+Image shape is different :  29178 (1408, 829, 4)
+Not Found :  97807
+Not Found :  94871
+Not Found :  165468
+Not Found :  138911
+Not Found :  137490
+OSError :  31461
+Image shape is different :  27011 (300, 300, 4)
+Not Found :  125836
+Not Found :  137575
+Image shape is different :  131877 (320, 588, 4)
+Not Found :  173839
+Not Found :  138670
+Not Found :  125574
+Image shape is different :  50850 (439, 499, 4)
+Not Found :  136403
+Not Found :  171944
+Not Found :  138166
+Not Found :  49321
+Not Found :  91773
+Not Found :  121842
+Image shape is different :  78980 (551, 604, 4)
+Image shape is different :  157731 (287, 500, 4)
+Not Found :  92226
+Not Found :  92353
+Not Found :  96813
+Not Found :  19969
+Not Found :  132165
+Not Found :  86249
+Not Found :  96740
+Not Found :  138940
+OSError :  89183
+Not Found :  139715
+Image shape is different :  113226 (536, 497, 4)
+IndexError :  142863 (3056, 2298)
+Not Found :  125664
+Image shape is different :  29718 (336, 300, 4)
+Not Found :  92976
+Not Found :  97180
+IndexError :  144217 (800, 800)
+Not Found :  122534
+Not Found :  97647
+Not Found :  92292
+Image shape is different :  112788 (763, 491, 4)
+Not Found :  138416
+Not Found :  45690
+Not Found :  102682
+Not Found :  25253
+Not Found :  94922
+Not Found :  125781
+Not Found :  190373
+Not Found :  122410
+Not Found :  27146
+Not Found :  139825
+Not Found :  139496
+OSError :  50607
+Not Found :  97280
+Not Found :  62595
+Not Found :  125510
+Not Found :  92717
+Not Found :  122290
+Not Found :  93336
+Not Found :  46363
+Not Found :  24832
+Not Found :  92832
+Not Found :  92683
+Not Found :  180623
+Image shape is different :  86788 (650, 1155, 4)
+Not Found :  122306
+IndexError :  186015 (1200, 1200)
+Not Found :  139501
+Not Found :  137911
+Not Found :  124687
+Not Found :  97217
+Not Found :  133524
+Not Found :  138189
+Not Found :  94625
+Not Found :  69621
+Image shape is different :  4411 (421, 637, 4)
+Not Found :  12089
+Not Found :  121557
+Not Found :  95051
+Not Found :  136863
+Not Found :  137384
+Not Found :  110384
+Not Found :  140959
+Not Found :  95723
+Image shape is different :  47001 (316, 489, 4)
+Not Found :  97031
+Not Found :  24390
+Image shape is different :  165402 (360, 360, 4)
+Not Found :  139457
+Not Found :  139633
+Image shape is different :  151246 (508, 790, 4)
+Not Found :  125509
+Not Found :  97471
+Not Found :  136170
+Not Found :  92774
+Not Found :  95478
+Not Found :  92740
+Not Found :  57260
+Not Found :  94687
+Not Found :  57748
+Not Found :  34751
+Not Found :  97177
+Not Found :  121479
+Not Found :  83446
+Not Found :  35206
+Not Found :  138165
+Not Found :  122795
+Not Found :  138696
+Not Found :  120433
+Not Found :  121807
+Not Found :  24855
+Not Found :  92304
+Image shape is different :  85639 (613, 730, 4)
+Not Found :  25192
+Not Found :  137465
+Not Found :  96750
+Not Found :  138137
+Not Found :  94197
+Not Found :  137775
+Not Found :  121888
+OSError :  157386
+Not Found :  96061
+Not Found :  137164
+Not Found :  137290
+Image shape is different :  50423 (835, 638, 4)
+Not Found :  136889
+Not Found :  145668
+Not Found :  122595
+Image shape is different :  161248 (550, 550, 4)
+Not Found :  137618
+Not Found :  77211
+Not Found :  138515
+Not Found :  95465
+Not Found :  20153
+Not Found :  47724
+Not Found :  175893
+Not Found :  20359
+Not Found :  136027
+Not Found :  94175
+Not Found :  139065
+Not Found :  94730
+Not Found :  137418
+Not Found :  1824
+Not Found :  43963
+Not Found :  94220
+Image shape is different :  157091 (554, 604, 4)
+Not Found :  137156
+Not Found :  124687
+Not Found :  138597
+Not Found :  101438
+Not Found :  92989
+Not Found :  138651
+Not Found :  24831
+Not Found :  93416
+Not Found :  95636
+IndexError :  57830 (800, 800)
+Image shape is different :  176694 (320, 620, 4)
+Not Found :  121297
+Not Found :  94905
+Not Found :  83506
+Image shape is different :  114756 (534, 790, 4)
+Not Found :  139274
+Not Found :  122611
+Not Found :  139015
+Not Found :  135526
+Not Found :  95881
+Not Found :  121487
+Not Found :  105264
+Not Found :  61994
+Image shape is different :  153050 (350, 520, 4)
+Not Found :  166047
+Not Found :  123701
+Image shape is different :  178301 (571, 687, 4)
+Image shape is different :  170956 (800, 800, 4)
+Not Found :  93349
+Not Found :  93910
+Not Found :  122129
+Not Found :  96776
+Not Found :  138585
+Not Found :  93240
+Not Found :  139306
+Not Found :  139181
+Not Found :  95807
+Not Found :  94925
+Not Found :  97729
+Not Found :  114810
+Not Found :  121435
+Not Found :  95528
+Not Found :  97747
+Not Found :  137960
+Not Found :  136378
+Not Found :  121489
+Not Found :  97188
+Not Found :  92403
+Image shape is different :  181361 (368, 551, 4)
+Not Found :  139340
+Not Found :  136988
+Not Found :  137126
+Not Found :  69621
+Not Found :  91931
+Not Found :  97031
+Not Found :  89896
+Not Found :  28515
+Not Found :  145370
+Not Found :  92879
+Not Found :  92604
+Not Found :  92038
+Not Found :  122263
+Not Found :  97813
+Not Found :  137042
+Image shape is different :  156820 (597, 600, 4)
+Not Found :  102806
+Not Found :  160862
+Image shape is different :  45258 (420, 422, 4)
+Not Found :  137534
+Image shape is different :  123983 (263, 490, 4)
+Not Found :  83036
+Not Found :  91946
+Not Found :  96316
+Not Found :  131864
+Not Found :  94680
+Not Found :  125590
+Not Found :  93609
+Not Found :  121670
+Image shape is different :  187693 (400, 600, 4)
+Not Found :  121610
+Not Found :  97460
+Not Found :  121595
+IndexError :  144686 (1200, 1200)
+Not Found :  97132
+Not Found :  179953
+Not Found :  132452
+Not Found :  91965
+Image shape is different :  49155 (839, 750, 4)
+Not Found :  93390
+Not Found :  12779
+Not Found :  56982
+IndexError :  192791 ()
+Not Found :  137703
+Not Found :  130692
+Not Found :  125688
+Not Found :  139207
+IndexError :  83572 ()
+Not Found :  93860
+Not Found :  128713
